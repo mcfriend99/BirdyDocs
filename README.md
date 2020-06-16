@@ -20,4 +20,4 @@ Open the file at `_build/html/index.html` in your local browser after building t
 
 ### Online Documentation
 
-This documentation is hosted online at []().
+This documentation is hosted online at [https://birdydocs.readthedocs.io](https://birdydocs.readthedocs.io/en/latest/).
